@@ -12,10 +12,9 @@ layout: home
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
-            # 陈绍武
+            #   陈绍武
         </div>
 
     </div>
-    <div class="aside">
-    </div>
+    <div class="aside"/>
 </div>

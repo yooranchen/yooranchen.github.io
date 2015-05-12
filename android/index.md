@@ -1,5 +1,5 @@
 
-<!-- 旁边的图片-->---
+---
 layout: home
 ---
 
@@ -23,6 +23,5 @@ layout: home
             </ul>
         </div>
     </div>
-    <div class="aside">
-    </div>
+    <div class="aside"/>
 </div>
