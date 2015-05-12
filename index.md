@@ -5,7 +5,7 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Code</span></a></li>
+            <li class="on" ><a href="/"><span>Code</span></a></li>
             <li style="text-align:center"><a href="/android"><span>Android</span></a></li>
             <li style="text-align:right"><a href="/about"><span>About me</span></a></li>
         </ul>
