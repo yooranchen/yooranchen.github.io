@@ -12,15 +12,27 @@ layout: home
 
         <div class="cate-bar"><span id="cateBar"></span></div>
         
-        <ul ></ul>
-
-        <ul>
-            <li>Name<br>CN:陈绍武  (ChenShaoWu) |  EN:YooranChen</li>
-            <li>I Am<br>文科出身的android程序员,行走在极客路上的一匹小码农,喜欢尝试新鲜的事物，爱折腾，爱观察。
-        只会移动端安卓开发的可怜虫,目前恶补知识中。</li>
-            <li>Contact</li>
+        <<ul class="artical-list">
+            <li>
+                <h2>Name<br></h2>
+                <div class="title-desc">
+                    CN:陈绍武  (ChenShaoWu) |  EN:YooranChen
+                </div>
+            </li>
+            <li>
+                <h2>I Am<br></h2>
+                <div class="title-desc">
+                    文科出身的android程序员,行走在极客路上的一匹小码农,喜欢尝试新鲜的事物，爱折腾，爱观察。
+                    只会移动端安卓开发的可怜虫,目前恶补知识中。
+                </div>
+            </li>
+            <li>
+                <h2>Contact<br></h2>
+                <div class="title-desc">
+                    CN:陈绍武  (ChenShaoWu) |  EN:YooranChen
+                </div>
+            </li>
         </ul>
-
     </div>
     <div class="aside">
     </div>
