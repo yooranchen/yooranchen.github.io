@@ -22,7 +22,7 @@ layout: home
             {% endfor %}
             </ul>
         </div>
-    <!-- 旁边的图片-->
+    </div>
     <div class="aside">
     </div>
 </div>

@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content android">
+<div class="index-content about">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Code</span></a></li>
@@ -12,12 +12,10 @@ layout: home
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
-            <ul class="about_me">
-            <h1>陈绍武</h1>
-            </ul>
+            # 陈绍武
         </div>
 
     </div>
-     <div class="aside">
+    <div class="aside">
     </div>
 </div>
