@@ -10,7 +10,12 @@ layout: home
             <li class="on" style="text-align:right"><a href="/about"><span>About me</span></a></li>
         </ul>
 
-        # 陈绍武
+        <div class="cate-bar"><span id="cateBar"></span></div>
+
+            <ul class="about_me">
+            <h1>陈绍武</h1>
+            </ul>
+        </div>
         
         </ul>
     </div>
