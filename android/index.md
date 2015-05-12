@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content android">
     <div class="section">
         <ul class="artical-cate">
             <li ><a href="/"><span>编程</span></a></li>

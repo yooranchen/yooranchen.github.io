@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<div class="index-content aboutme">
     <div class="section">
         <ul class="artical-cate">
             <li ><a href="/"><span>编程</span></a></li>
@@ -11,10 +11,7 @@ layout: home
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
-
-        <ul>
-            陈绍武
-        </ul>
+        
     </div>
     <div class="aside">
     </div>
