@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>编程</span></a></li>
             <li style="text-align:center"><a href="/android"><span>Android</span></a></li>
-            <li style="text-align:right"><a href="/about"><span>关于我</span></a></li>
+            <li style="text-align:right"><a href="/aboutme"><span>关于我</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
