@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on" ><a href="/"><span>Code</span></a></li>
+            <li class="on"><a href="/"><span>编程</span></a></li>
             <li style="text-align:center"><a href="/android"><span>Android</span></a></li>
-            <li style="text-align:right"><a href="/about"><span>About me</span></a></li>
+            <li style="text-align:right"><a href="/about"><span>关于我</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
@@ -21,5 +21,6 @@ layout: home
         {% endfor %}
         </ul>
     </div>
-    <div class="aside"/>
+    <div class="aside">
+    </div>
 </div>
