@@ -12,7 +12,7 @@ layout: home
 
         <div class="cate-bar"><span id="cateBar"></span></div>
         
-        <<ul class="artical-list">
+        <ul class="artical-list">
             <li>
                 <h2>Name<br></h2>
                 <div class="title-desc">
@@ -26,12 +26,12 @@ layout: home
                     只会移动端安卓开发的可怜虫,目前恶补知识中。
                 </div>
             </li>
-            <li>
+            <!--<li>
                 <h2>Contact<br></h2>
                 <div class="title-desc">
-                    CN:陈绍武  (ChenShaoWu) |  EN:YooranChen
+                    GitHub:<a href:"https://github.com/yooranchen">yooranchen</a>
                 </div>
-            </li>
+            </li>-->
         </ul>
     </div>
     <div class="aside">
