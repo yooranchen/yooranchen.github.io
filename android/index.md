@@ -1,4 +1,5 @@
----
+
+<!-- 旁边的图片-->---
 layout: home
 ---
 
@@ -21,6 +22,7 @@ layout: home
             {% endfor %}
             </ul>
         </div>
+    <!-- 旁边的图片-->
     <div class="aside">
     </div>
 </div>

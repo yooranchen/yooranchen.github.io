@@ -16,9 +16,8 @@ layout: home
             <h1>陈绍武</h1>
             </ul>
         </div>
-        
-        </ul>
+
     </div>
-    <div class="aside">
+     <div class="aside">
     </div>
 </div>

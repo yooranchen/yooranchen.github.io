@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 板块介绍
-category: Android
+category: android
 description: 关于android板块
 ---
 
