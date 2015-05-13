@@ -22,16 +22,10 @@ layout: home
             <li>
                 <h2>I Am<br></h2>
                 <div class="title-desc">
-                    文科出身的android程序员,行走在极客路上的一匹小码农,喜欢尝试新鲜的事物，爱折腾，爱观察。
+                    文科出身的android程序员,行走在编程路上的一匹小码农,喜欢尝试新鲜的事物，爱折腾，爱观察。
                     只会移动端安卓开发的可怜虫,目前恶补知识中。
                 </div>
             </li>
-            <!--<li>
-                <h2>Contact<br></h2>
-                <div class="title-desc">
-                    GitHub:<a href:"https://github.com/yooranchen">yooranchen</a>
-                </div>
-            </li>-->
         </ul>
     </div>
     <div class="aside">
