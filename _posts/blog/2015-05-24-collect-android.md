@@ -8,7 +8,8 @@ category: blog
 
 ##		android 工具相关链接
 1.	[AndroidDevTools](http://www.androiddevtools.cn/) 集成 Android Studio/ADT Bunddle 等 IDE 的下载链接,同时提供各式各样版本的 gradle,sdkManager,elipse/Android Studio 插件下载.
-2.	有用的Android Studio 和 Eclipse插件
+2.	[Android Aresenal](https://android-arsenal.com/free) 汇集 `Github` 上的开源项目,又新又全,非常赞
+3.	有用的Android Studio 和 Eclipse插件
 	*	android-parcelable-intellij-plugin: 快速为类实现Parcelable接口。 [GitHub](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 	*	sdk-manager-plugin: 自动下载和安装缺失的SDK和依赖库，建议所有开源项目集成，使得第三方更加容易编译。[GitHub](https://github.com/JakeWharton/sdk-manager-plugin)
 	*	AndroidStudioTemplate：开发过程中，帮助你快速创建一些开发模板。[GitHub](https://github.com/gabrielemariotti/AndroidStudioTemplate)
@@ -24,7 +25,7 @@ category: blog
 
 ##	Android大神博客
 1.	[鸿洋](http://blog.csdn.net/lmj623565791) CSDN2014年博客之星,慕课网讲师,大神有开通公众号,可以关注
-2.	[郭神,郭霖] 慕课网讲师,郭神好像最近没什么时间维护博客了
+2.	[郭神,郭霖](http://blog.csdn.net/sinyu890807/) 慕课网讲师,郭神好像最近没什么时间维护博客了
 3.	[罗升阳](http://blog.csdn.net/luoshengyang) `老罗的 android 之旅` 作者,不过看博客内容,作者也已经蛮久没维护的,不过文章不缺高质量的内容(反正里面的内容我是不怎么看得懂)
 4.	[胡凯](http://hukai.me/blog/archives/) android官方开发教程中文译文项目发起者
 5.	[码农明明桑](http://blog.isming.me/) 有审美细胞的开发者
